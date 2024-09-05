@@ -27,13 +27,15 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
     <a href="https://web.dev/learn/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/no-linux.png"/> </a> 
+    <a href="https://www.codecademy.com/learn/learn-sql" target="_blank"> <img src="https://icons8.com/icon/3767/sql"/> </a>
+    <a href="https://www.w3schools.com/excel/" target="_blank"> <img src="https://icons8.com/icon/117561/microsoft-excel-2019"/> </a>            
     <a href="https://notepad-plus-plus.org/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png"/> </a> 
     <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.codechef.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/codechef.png"/> </a> 
