@@ -38,7 +38,7 @@
     <a href="https://www.w3schools.com/excel/" target="_blank"> <img src="https://icons8.com/icon/117561/microsoft-excel-2019"/> </a>            
     <a href="https://notepad-plus-plus.org/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png"/> </a> 
     <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.codechef.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/codechef.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.codechef.com/" target="_blank"> <img src="https://png.pngtree.com/png-vector/20190409/ourmid/pngtree-sql-file-document-icon-png-image_920263.jpg"/> </a> 
     <a style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/open-source--v1.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> </a> 
     <a href="https://firebase.google.com/" target="_blank"> </a> 
