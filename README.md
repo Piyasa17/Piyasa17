@@ -13,9 +13,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying in **[Academy of Technology](https://aot.edu.in)**
+- 🔭 I have completed my B.Tech from  **[Academy of Technology](https://aot.edu.in)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Science.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
